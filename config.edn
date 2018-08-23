@@ -1,0 +1,10 @@
+{:access-keys
+ {:consumer_key "XXXX"
+  :consumer_secret "XXXX"
+  :access_token_key "XXXX"
+  :access_token_secret "XXXX"
+ :account "arstechnica"
+ :content-filters [".*badwords.*"]
+ :include-replies? true
+ :include-rts? true
+ :output-file "tweets.md"}
